@@ -1,0 +1,5 @@
+n1 = input("请输入字符串1")
+n2 = input("请输入字符串2")
+print(" + 后：{}".format(n1+n2))
+print(" n1*4后：{}".format(n1*4))
+print(" a是否存在于n1：{}".format('a' in n1))

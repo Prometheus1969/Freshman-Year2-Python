@@ -1,0 +1,7 @@
+#BIT*2.py
+for s in "BIT" :
+    for i in range(10) :
+        print(s,end=" ")
+        if s== 'T':
+            break
+print("over")
